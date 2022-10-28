@@ -7,3 +7,5 @@
 
 #define SECRET_CH_ID 1912119			// replace 0000000 with your channel number
 #define SECRET_WRITE_APIKEY "BHY74HLJT9IWT0GI"   // replace XYZ with your channel write API Key
+
+//PLEASE DONT RUIN MY SHIT
