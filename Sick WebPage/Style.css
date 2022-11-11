@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 255, 53);
+  }
+
+
+  h1 {
+    text-align: center;
+    font-family: "Lucida Handwriting";
+    font-size: 80px;
+
+
+  }
+ 
+  .column {
+    float: left;
+    padding: 10px;
+    height: 150px; /* Should be removed. Only for demonstration */
+  }
+  
+  .left, .right {
+    width: 22%;
+  }
+  
+  .middle {
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+  }
+
+  vid, iframe {
+    margin: 0 auto;
+    padding: 50px;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
+
+.Rrrrr {
+  font: italic 40px serif;
+  fill: yellow;
+}
